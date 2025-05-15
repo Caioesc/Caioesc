@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, me chamo Caio Escorel</h1>
 <h3 align="center">Um desenvolvedor amante da tecnologia e inovação</h3>
 
-- 🌱 Atualmente estou aprendendo **React, typescript e axios**
+- 👨‍💻 Atualmente estou aprendendo **React, Typescript e Java com Servlet**
 
 - 📫 Como entrar em contato comigo **caioheraclio@gmail.com**
 
